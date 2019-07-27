@@ -1,0 +1,16 @@
+Shift + F6 => refactor | rename
+Ctrl + O => Override method
+Ctrl + I => Implement methods
+Ctrl + Space + Shift => Intellicence : Accept it by Tab key.
+Alt+ Insert (Code | Generate)
+Alt+F1
+Ctrl+Alt+T => Surround With a code
+Ctrl+Alt+B => navigate to abstract method implementation
+Ctrl+Alt+V => Extract variable
+Ctrl + / and Ctrl +Shift + / => Comment and UnComment
+Shift + F1 => Documentation
+Ctrl + D => Duplicate line
+Ctrl+Shift+N -> Go to file
+Double Shift -> Search everywhere
+Ctrl + E -> Recent File
+
